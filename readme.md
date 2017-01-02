@@ -1,8 +1,8 @@
-#Circular Progress Bar for android
+# Circular Progress Bar for android
 
 This repository is a fork from [CircularProgressBar](https://github.com/lopspower/CircularProgressBar) but completely rewritten.
 
-# How to use 
+## How to use 
 
 Clone git and import module to your project.
 
@@ -36,4 +36,6 @@ progressBar.startWheelMode();
 
 ```
 
- 
+## LICENCE
+
+CircularProgressBar by Mohsen Timar is licensed under a Apache License 2.0.
