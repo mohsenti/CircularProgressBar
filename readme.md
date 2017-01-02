@@ -1,6 +1,6 @@
 #Circular Progress Bar for android
 
-This repository is a fork from [https://github.com/lopspower/CircularProgressBar](CircularProgressBar) but completely rewritten.
+This repository is a fork from [CircularProgressBar](https://github.com/lopspower/CircularProgressBar) but completely rewritten.
 
 # How to use 
 
