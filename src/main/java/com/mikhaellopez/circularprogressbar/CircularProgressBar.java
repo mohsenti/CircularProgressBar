@@ -207,7 +207,7 @@ public class CircularProgressBar extends View {
 
             foregroundPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
             foregroundPaint.setStyle(Paint.Style.STROKE);
-
+            foregroundPaint.setStrokeCap(Paint.Cap.ROUND);
             this.startAngle = startAngle;
             this.progress = progress;
             this.strokeWidth = progressWidth;
